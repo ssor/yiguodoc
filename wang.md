@@ -31,6 +31,5 @@
 <br>2、此过程包括与一次拣选人员的交接、分订单的拣选和最终订单的核对等几个过程。
 
 
-<img src="images/222.png" width = "300" height = "200" alt="拣选系统" align=center />
 
 
