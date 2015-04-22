@@ -58,5 +58,5 @@
 业务流程图如下：
 
 
-<img src="images/拣选流程图.jpg"  alt = "图 1-5订单拣选系统--产品管理操作界面" align=center />
+<img src="images/订单拣选流程图.jpg"  alt = "图 1-5订单拣选系统--产品管理操作界面" align=center />
 
