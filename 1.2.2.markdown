@@ -8,3 +8,6 @@
 
 <img src="images/订单管理刘.png"  alt = "图 1-3订单拣选系统--产品管理操作界面" align=center />
 图 1-3订单拣选系统--产品管理操作界面
+##links
+- 上一节:[产品管理](1.2.1.markdown)
++ 下一节：[集合单管理](1.2.3.markdown)
